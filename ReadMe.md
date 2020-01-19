@@ -19,3 +19,7 @@ console.log('Hello world from Alisina');
 This line after Chris advice.
 
 this line from alisina
+
+this is story by Bani
+we are working in a cool p[roject to learn how to work with github
+great thanks for CYF]
